@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: gray;
+}
+#container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+h5{
+    color: orange;
+    text-align: center;
+}
+button{
+font-size: 1em;
+width: 1000px;
+}
+hr{
+    width: 400px;
+}
+h5:hover{
+    color:gray;
+    text-decoration: underline;
+    
+}
