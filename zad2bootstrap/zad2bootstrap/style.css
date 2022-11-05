@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: gray;
+}
+#container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    color: orange;
+    text-align: center;
+    font-size: 1em;
+
+}
+button{
+width: 1000px;
+}
+hr{
+    width: 400px;
+}
+h2:hover{
+    color: gray;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 1em;
+
+}
